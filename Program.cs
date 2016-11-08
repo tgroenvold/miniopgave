@@ -41,7 +41,9 @@ namespace Consoleminiopgaver
         {
             Debug.WriteLine("opgave 4");
             Debug.WriteLine(-1 + 5 * 3);
-            Debug.WriteLine(24 + 5);
+            Debug.WriteLine((24 + 5) % (float)7);
+            Debug.WriteLine((15 + -4)*6 / (float) 11);
+
 
 
         }   
